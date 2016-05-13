@@ -10,7 +10,7 @@
 //   It probably has errors somewhere. You are welcome to fix them.
 //
 // Author:
-//   bill.smith@sharpnotions.com
+//   github.com/mentalspike
 
 
 /* eslint-env node */
